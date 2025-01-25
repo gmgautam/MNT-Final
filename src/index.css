@@ -1,0 +1,16 @@
+@import url("../public/Fonts/ClashDisplay_Complete/ClashDisplay_Complete/Fonts/WEB/css/clash-display.css");
+
+@font-face {
+    font-family:chronical-display;
+    src: url("../public/Fonts/chronicle-display/Chronicle\ Display\ Semibold.otf");
+}
+
+*{
+    margin:0px;
+    padding: 0px;
+    box-sizing:border-box
+}
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+ 
