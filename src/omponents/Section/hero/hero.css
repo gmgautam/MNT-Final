@@ -1,0 +1,26 @@
+.hero-Bg{
+    background-image: url("../../../../public/images/hero\ background\ image\ two.png");
+    width: 100%;
+    background-position-y: -390px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+   
+   /* background-size:cover; */
+
+    /* background-size:cover; */
+}
+@media (min-width:320px) and (max-width:648px) {
+    .hero-Bg{
+        background-image: url("../../../../public/images/hero\ background\ image\ two.png");
+        width: 100%;
+        height: 500px;
+        background-repeat: no-repeat;
+        background-position-y: -80px;
+        background-size:cover;
+        position: relative;
+       /* background-size:cover; */
+    
+        /* background-size:cover; */
+    }   
+}
